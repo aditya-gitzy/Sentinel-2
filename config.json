@@ -3,20 +3,64 @@
   "settle_seconds": 3,
   "rules": {
     "CollegeDocs": {
-      "extensions": [".pdf", ".docx", ".txt", ".doc"],
-      "keywords": ["assign", "assignment", "ass", "project", "report"]
+      "extensions": [
+        ".pdf",
+        ".docx",
+        ".txt",
+        ".doc"
+      ],
+      "keywords": [
+        "assign",
+        "assignment",
+        "ass",
+        "project",
+        "report"
+      ]
     },
     "Images": {
-      "extensions": [".jpg", ".jpeg", ".png", ".gif", ".webp"],
+      "extensions": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif",
+        ".webp"
+      ],
       "keywords": []
     },
     "GeneralDocs": {
-      "extensions": [".pdf", ".docx", ".doc", ".txt", ".xlsx", ".pptx"],
+      "extensions": [
+        ".pdf",
+        ".docx",
+        ".doc",
+        ".txt",
+        ".xlsx",
+        ".pptx"
+      ],
       "keywords": []
     },
     "Code": {
-      "extensions": [".py", ".js", ".cpp", ".c", ".html", ".css", ".json"],
+      "extensions": [
+        ".py",
+        ".js",
+        ".cpp",
+        ".c",
+        ".html",
+        ".css",
+        ".json"
+      ],
       "keywords": []
+    },
+    "projects": {
+      "extensions": [
+        ".html",
+        ".py"
+      ],
+      "keywords": [
+        "project",
+        "pro",
+        "prjct",
+        "pp"
+      ]
     }
   },
   "destinations": {
@@ -24,6 +68,7 @@
     "Images": "C:/Users/LENOVO/Pictures/Saved",
     "GeneralDocs": "C:/Users/LENOVO/Documents/General",
     "Code": "C:/Users/LENOVO/Documents/Development",
-    "Others": "C:/Users/LENOVO/Documents/Unsorted"
+    "Others": "C:/Users/LENOVO/Documents/Unsorted",
+    "projects": "D:\\Pro"
   }
 }
