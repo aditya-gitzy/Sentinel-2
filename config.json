@@ -1,5 +1,5 @@
 {
-  "watch_directory": "C:/Users/LENOVO/Downloads",
+  "watch_directory": "~/Downloads",
   "settle_seconds": 3,
   "rules": {
     "CollegeDocs": {
@@ -61,14 +61,41 @@
         "prjct",
         "pp"
       ]
+    },
+    "anime": {
+      "extensions": [
+        ".pdf",
+        ".png",
+        ".txt",
+        ".html"
+      ],
+      "keywords": [
+        "demo",
+        "dem",
+        "gem"
+      ]
+    },
+    "failure": {
+      "extensions": [
+        ".html",
+        ".txt",
+        ".py"
+      ],
+      "keywords": [
+        "ran",
+        "rat",
+        "race"
+      ]
     }
   },
   "destinations": {
-    "CollegeDocs": "C:/Users/LENOVO/Documents/College_Assignments",
-    "Images": "C:/Users/LENOVO/Pictures/Saved",
-    "GeneralDocs": "C:/Users/LENOVO/Documents/General",
-    "Code": "C:/Users/LENOVO/Documents/Development",
-    "Others": "C:/Users/LENOVO/Documents/Unsorted",
-    "projects": "D:\\Pro"
+    "CollegeDocs": "~/Documents/College_Assignments",
+    "Images": "~/Pictures/Saved",
+    "GeneralDocs": "~/Documents/General",
+    "Code": "~/Documents/Development",
+    "Others": "~/Documents/Unsorted",
+    "projects": "D:/Pro",
+    "anime": "D:/mine",
+    "failure": "D:\\tmp"
   }
 }
