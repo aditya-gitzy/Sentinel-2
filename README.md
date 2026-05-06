@@ -77,7 +77,7 @@ python main.py
 ### 👥 The Team
 Developed by **The Geeks** for the 2025-2026 Python Mini Project at Don Bosco Institute of Technology.
 
-* **[Jayita Chakraborty](https://github.com/jayitamchakraborty-coder)** (Project Leader)
+* **[Jayita Chakraborty](https://github.com/jayitamchakraborty-coder)**
 * **[Bharthi Annapandi](https://github.com/bharthi12)**
 * **[Aditya Lande](https://github.com/aditya-gitzy)**
 * **[Ekjyot Singh](https://github.com/ekjyotsingh-2007)**
