@@ -18,3 +18,7 @@
 2026-05-02 21:55:14,933 - INFO - Successfully moved: dem.html -> C:\Users\LENOVO\Documents\Development\dem.html
 2026-05-02 22:07:14,637 - INFO - Sentinel started watching: C:\Users\LENOVO\Downloads
 2026-05-02 22:07:32,272 - INFO - Successfully moved: ran.txt -> D:\tmp\ran.txt
+2026-06-20 01:07:46,493 - INFO - Sentinel started watching: /home/Dark/Downloads
+2026-06-20 01:08:33,807 - INFO - Successfully moved: gen.txt -> /home/Dark/Desktop/Agents/gen.txt
+2026-06-20 01:09:56,110 - INFO - Sentinel started watching: /home/Dark/Downloads
+2026-06-20 01:10:10,298 - INFO - Successfully moved: gen.asc -> /home/Dark/Desktop/Agents/gen.asc

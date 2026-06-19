@@ -37,65 +37,12 @@
         ".pptx"
       ],
       "keywords": []
-    },
-    "Code": {
-      "extensions": [
-        ".py",
-        ".js",
-        ".cpp",
-        ".c",
-        ".html",
-        ".css",
-        ".json"
-      ],
-      "keywords": []
-    },
-    "projects": {
-      "extensions": [
-        ".html",
-        ".py"
-      ],
-      "keywords": [
-        "project",
-        "pro",
-        "prjct",
-        "pp"
-      ]
-    },
-    "anime": {
-      "extensions": [
-        ".pdf",
-        ".png",
-        ".txt",
-        ".html"
-      ],
-      "keywords": [
-        "demo",
-        "dem",
-        "gem"
-      ]
-    },
-    "failure": {
-      "extensions": [
-        ".html",
-        ".txt",
-        ".py"
-      ],
-      "keywords": [
-        "ran",
-        "rat",
-        "race"
-      ]
     }
   },
   "destinations": {
     "CollegeDocs": "~/Documents/College_Assignments",
     "Images": "~/Pictures/Saved",
     "GeneralDocs": "~/Documents/General",
-    "Code": "~/Documents/Development",
-    "Others": "~/Documents/Unsorted",
-    "projects": "D:/Pro",
-    "anime": "D:/mine",
-    "failure": "D:\\tmp"
+    "Others": "~/Documents/Unsorted"
   }
 }
